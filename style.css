@@ -1,3 +1,13 @@
 * {
-  background-color: chartreuse;
+  background-color: #ff0000;
+}
+
+header {
+  background-color: #00ff00;
+  color: #0000ff;
+  width: 100vw;
+  margin: 1rem;
+  border-width: 2px;
+  border-style: groove;
+  border-color: #0000ff;
 }
